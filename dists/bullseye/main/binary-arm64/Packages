@@ -1,0 +1,75 @@
+Package: mosaik-ab-update
+Priority: optional
+Section: devel
+Installed-Size: 25
+Maintainer: Quelltextlabor GmbH
+Architecture: arm64
+Version: 0.1.1
+Filename: pool/main/m/mosaik-ab-update/mosaik-aarch64-ab-update.deb
+Size: 2318
+MD5sum: ffe558dc0b9b16327f5797d53e12302e
+SHA1: 85c78359e92689d1ccd750b537bd498d58308474
+SHA256: a83a4c54b9feb10bb97da76aa275efe352dd1130b54375325d3f448aea7b4532
+SHA512: 1e5cae9e3a46ce5d5072ae54151f00a4e7957f070d26628f232b31b2a73ab4197d4fbd50672ee000055c21a7b0944250b9c4c0004c886e6440618a997caa302a
+Description: Mosaik
+
+Package: mosaik-app
+Priority: optional
+Section: devel
+Installed-Size: 2947
+Maintainer: Quelltextlabor GmbH
+Architecture: arm64
+Version: 0.1.1
+Filename: pool/main/m/mosaik-app/mosaik-aarch64-app.deb
+Size: 914278
+MD5sum: e663eb69639df64854a9d31d3e53e650
+SHA1: 103cf35ae2e7eb0c6eee739621fe4da1891a53f9
+SHA256: 17a48f6f80fcf2c9bb81bbe55552610cde77164fd08b442017f05c656b61e172
+SHA512: 01b7d926dec26f90eed413b320f9fd39b68918c0a323725a36c5badf25e9d9d72322cc85ef35df1b962ca10ffda38773af18375a26e9cbc2e9020cebad0fc581
+Description: Mosaik
+
+Package: mosaik-factory-init
+Priority: optional
+Section: devel
+Installed-Size: 11
+Maintainer: Quelltextlabor GmbH
+Architecture: arm64
+Version: 0.1.1
+Filename: pool/main/m/mosaik-factory-init/mosaik-aarch64-factory-init.deb
+Size: 1516
+MD5sum: 6e6825335ab873793175673d92246904
+SHA1: 430d250b0b50e0fe9d9934eb7183b255bbfa668a
+SHA256: dcda8b5f9483fb8db2855e48726ad1e8ed39f912950c5f3ab8832cc12d5cde5e
+SHA512: 28d7f03ad752693716dde14a0975aa8ba59ea0fc889f4742e2a163cf0e67bcdf33ad562a74e437badcc83f8930d4ac97b42a2a66df8885ed01435ddeac139b60
+Description: Mosaik
+
+Package: mosaik-ota-update
+Priority: optional
+Section: devel
+Installed-Size: 21
+Maintainer: Quelltextlabor GmbH
+Architecture: arm64
+Version: 0.1.1
+Filename: pool/main/m/mosaik-ota-update/mosaik-aarch64-ota-update.deb
+Size: 1112
+MD5sum: afcd89f799ce1bdc6821d95da2639b3d
+SHA1: ea1816779380b61426a204b8ed8d606c9caf1f2e
+SHA256: 31433789524558179ea26ff5ab6a55457f89dbf12167bbf400cefe63b37497ec
+SHA512: efa627b7400d7056dac7c37b87aed35cce90cda30ecc847a3802fd20659f2a511b09a8302574e489215c5d9ee91d96ab8375e6a18965e4b8cea3730e8a3ad6ff
+Description: Mosaik
+
+Package: mosaik-unspecified
+Priority: optional
+Section: devel
+Installed-Size: 4
+Maintainer: Quelltextlabor GmbH
+Architecture: arm64
+Version: 0.1.1
+Filename: pool/main/m/mosaik-unspecified/mosaik-aarch64-Unspecified.deb
+Size: 540
+MD5sum: aeca820e2d3476bac1a16d0eecd42375
+SHA1: c57c9efe48b8318c7e77258e7f0832669ba6fd61
+SHA256: fda22f17b9811fa17ec5c0cbaadc60420d7ba3f05a46e15c1b1b2d1eaf773d47
+SHA512: 30e0e06e9e7834ea2006cb96271a73ed5ad2fee47e030ba8591dfe6f75e9cc244f752cf42003a2a8ff5873caec5d60333b44d7d023a0c09d971abfa501a5be81
+Description: Mosaik
+
